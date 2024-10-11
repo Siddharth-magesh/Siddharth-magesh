@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Siddharth Magesh</h1>
 <h3 align="center">Here’s the reviI am an AI Engineer and a B-Tech AI & Data Science student at VEC, specializing in Natural Language Processing, Computer Vision, and Machine Learning. I am passionate about advancing artificial general intelligence (AGI) and artificial superintelligence (ASI).</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth-magesh&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth-magesh" /> </p>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2j4NuxbI3eZa7yiFT2kroG&ust=1728729597104000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiCleGRhokDFQAAAAAdAAAAABAR" >
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966" >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth-magesh" alt="siddharth-magesh" /></a> </p>
 
 - 🔭 I’m currently working on [Sentimatix-Studio](https://github.com/Siddharth-magesh/Sentimatrix-Studio)
