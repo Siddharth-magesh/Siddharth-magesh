@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Siddharth Magesh</h1>
 <h3 align="center">Here’s the reviI am an AI Engineer and a B-Tech AI & Data Science student at VEC, specializing in Natural Language Processing, Computer Vision, and Machine Learning. I am passionate about advancing artificial general intelligence (AGI) and artificial superintelligence (ASI).</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" >
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2j4NuxbI3eZa7yiFT2kroG&ust=1728729597104000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiCleGRhokDFQAAAAAdAAAAABAR" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth-magesh&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth-magesh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth-magesh" alt="siddharth-magesh" /></a> </p>
