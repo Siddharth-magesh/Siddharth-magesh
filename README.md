@@ -1,9 +1,8 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Siddharth Magesh</h1>
 <h3 align="center">Here’s the reviI am an AI Engineer and a B-Tech AI & Data Science student at VEC, specializing in Natural Language Processing, Computer Vision, and Machine Learning. I am passionate about advancing artificial general intelligence (AGI) and artificial superintelligence (ASI).</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2j4NuxbI3eZa7yiFT2kroG&ust=1728729597104000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiCleGRhokDFQAAAAAdAAAAABAR" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharth-magesh&label=Profile%20views&color=0e75b6&style=flat" alt="siddharth-magesh" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2j4NuxbI3eZa7yiFT2kroG&ust=1728729597104000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOiCleGRhokDFQAAAAAdAAAAABAR" >
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharth-magesh" alt="siddharth-magesh" /></a> </p>
 
 - 🔭 I’m currently working on [Sentimatix-Studio](https://github.com/Siddharth-magesh/Sentimatrix-Studio)
