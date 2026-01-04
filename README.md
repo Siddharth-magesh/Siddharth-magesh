@@ -89,11 +89,6 @@ I'm a passionate researcher and developer specializing in cutting-edge AI techno
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="390" src="...stats..." />
-  <img width="390" src="...langs..." />
-</p>
-
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=siddharth-magesh&theme=tokyonight)](https://git.io/streak-stats)
