@@ -98,7 +98,7 @@ I'm a passionate researcher and developer specializing in cutting-edge AI techno
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=siddharth-magesh&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=siddharth-magesh&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
