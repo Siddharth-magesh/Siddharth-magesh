@@ -98,9 +98,7 @@ I'm a passionate researcher and developer specializing in cutting-edge AI techno
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com/?user=siddharth-magesh&theme=tokyonight&hide_border=true&background=0D1117&format=svg"
-/>
+<img src="https://streak-stats.demolab.com/?user=siddharth-magesh&theme=tokyonight&format=svg" />
 
 
 </div>
