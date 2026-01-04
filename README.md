@@ -98,8 +98,7 @@ I'm a passionate researcher and developer specializing in cutting-edge AI techno
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=siddharth-magesh&theme=dark&cache_seconds=86400)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=siddharth-magesh&theme=dark&v=2)](https://git.io/streak-stats)
 
 </div>
 
