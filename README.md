@@ -89,10 +89,10 @@ I'm a passionate researcher and developer specializing in cutting-edge AI techno
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=siddharth-magesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-magesh&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
+<p align="center">
+  <img width="390" src="...stats..." />
+  <img width="390" src="...langs..." />
+</p>
 
 <div align="center">
 
